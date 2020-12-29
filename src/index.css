@@ -1,0 +1,28 @@
+.google-map-input {
+	padding: 20px 0;
+	display: flex;
+}
+
+.google-map-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #e4e4e4;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.google-map-input button {
+    padding: 10px;
+    border: 1px solid #cccccc;
+    background-color: #cccccc;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
