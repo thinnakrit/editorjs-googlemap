@@ -1,4 +1,4 @@
-# editorjs-google-map
+# editorjs-googlemap
 Editor.js Google map inline tools
 
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
@@ -13,19 +13,19 @@ Allows adding google map previews to your articles.
 Get the package
 
 ```shell
-npm i --save-dev editorjs-google-map
+npm i --save-dev editorjs-googlemap
 ```
 
 Include module at your application
 
 ```javascript
-const GoogleMap = require('editorjs-google-map');
+const GoogleMap = require('editorjs-googlemap');
 ```
 
 ES2015
 
 ```javascript
-import GoogleMap from 'editorjs-google-map'
+import GoogleMap from 'editorjs-googlemap'
 ```
 
 ### Download to your project's source dir

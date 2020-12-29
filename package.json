@@ -1,6 +1,6 @@
 {
-  "name": "editorjs-google-map",
-  "version": "1.0.1",
+  "name": "editorjs-googlemap",
+  "version": "1.0.0",
   "keywords": [
     "codex editor",
     "tool",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinnakrit/editorjs-google-map.git"
+    "url": "git+https://github.com/thinnakrit/editorjs-googlemap.git"
   },
   "main": "./dist/bundle.js",
   "scripts": {
@@ -42,9 +42,9 @@
     "webpack-cli": "^3.3.11"
   },
   "bugs": {
-    "url": "https://github.com/thinnakrit/editorjs-google-map/issues"
+    "url": "https://github.com/thinnakrit/editorjs-googlemap/issues"
   },
-  "homepage": "https://github.com/thinnakrit/editorjs-google-map/blob/main/README.md",
+  "homepage": "https://github.com/thinnakrit/editorjs-googlemap/blob/main/README.md",
   "dependencies": {
     "@babel/runtime": "^7.10.2"
   }
