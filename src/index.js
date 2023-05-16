@@ -53,11 +53,11 @@ class GoogleMap {
 			input.placeholder = this.config.placeholder || ''
 			input.value =
 				this.data && this.data.place ? this.data.place : ''
-			button.addEventListener('click', function (event){
-				this._applyIFrame(input.value)
-				this.wrapper.removeChild(input)
-				this.wrapper.removeChild(button)
-			})
+			button.addEventListener('click', (event) => {
+				this._applyIFrame(input.value);
+				this.wrapper.removeChild(input);
+				this.wrapper.removeChild(button);
+			});
 		}
 		return this.wrapper
 	}
